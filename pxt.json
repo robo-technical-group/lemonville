@@ -1,6 +1,7 @@
 {
     "name": "Lemonville",
-    "description": "",
+    "version": "2.3.0",
+    "description": "Adaptation of Lemonade Stand for MakeCode Arcade",
     "dependencies": {
         "device": "*",
         "pxt-arcade-info-screens": "github:robo-technical-group/pxt-arcade-info-screens#v1.0.13",
